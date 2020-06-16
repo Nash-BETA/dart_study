@@ -4,7 +4,8 @@
  + https://dart.dev
    + https://dart.dev/web
 
-
+## サーバー立ち上げ
+ + webdev serve
 
 ## 【学習内容 - dart公式】
   + ≪mainについて≫
