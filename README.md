@@ -8,6 +8,8 @@
  + webdev serve
 
 ## コンパイル
+  + dartdevc [オプション] 変換後のファイル 変換前のファイル
+    例:dartdevc -oaaa.js aaa.dart
   + dart2js.bat [オプション] 変換後のファイル 変換前のファイル
     例:dart2js.bat -oaaa.js aaa.dart
 
